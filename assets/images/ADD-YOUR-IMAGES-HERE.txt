@@ -1,0 +1,6 @@
+Place the following images in this folder:
+
+profile-photo.png
+project-one.jpg
+project-two.jpg
+project-three.jpg
